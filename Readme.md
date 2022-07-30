@@ -1,4 +1,4 @@
-# Project-01/15 
+# Project-02/15 
 It is a static home page made using **HTML & CSS**.
 
 #### From this project, I've learned:-
@@ -9,4 +9,4 @@ It is a static home page made using **HTML & CSS**.
 
 ### > The Screenshot of the site is attached here:-
 
-[Project-1 ScreenShot:](SS2.png "Food Restraunt home page")
+[Project-1 ScreenShot:](./assets/scrool.png "Food Restraunt home page")
