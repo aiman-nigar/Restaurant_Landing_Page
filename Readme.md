@@ -9,4 +9,4 @@ It is a static home page made using **HTML & CSS**.
 
 ### > The Screenshot of the site is attached here:-
 
-![Project-1 ScreenShot:](SS2.png "Food Restraunt home page")
+[Project-1 ScreenShot:](SS2.png "Food Restraunt home page")
