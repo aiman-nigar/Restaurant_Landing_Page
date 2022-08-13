@@ -13,4 +13,4 @@ It is a static home page made using **HTML & CSS**.
 
 - Time taken: 01 Hour
 
-> ### The link to the site: [Restaurant Landing Page](https://aim-street-style-landing-page.netlify.app/)
+> ### The link to the site: [Restaurant Landing Page](https://aim-restaurant-landing-page.netlify.app/)
