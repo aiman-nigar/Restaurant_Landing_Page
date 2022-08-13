@@ -10,3 +10,7 @@ It is a static home page made using **HTML & CSS**.
 > ### The Screenshot of the site is attached here:-
 
 ![Project-2 ScreenShot:](SS2.png "Food Restraunt home page")
+
+- Time taken: 01 Hour
+
+> ### The link to the site: [Restaurant Landing Page](https://aim-street-style-landing-page.netlify.app/)
